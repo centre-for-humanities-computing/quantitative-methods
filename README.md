@@ -6,10 +6,22 @@ This repository contains materials for the Computational Humanities (CMP 25) cou
 
 ```
 .
-├── README.md                  # Overview and instructions
+├── README.md
+├── assest
+│   └── images
+│       ├── CHC-logo-full-name.gif
+│       └── it-vest.png
 ├── files
-│   └── 2024_quant_text.pdf    # Course-related documents and readings
-└── index.html                 # Main webpage for course information and schedule
+│   └── 2024_quant_text.pdf
+├── index.html
+└── lessons
+    ├── lesson_01.html
+    ├── lesson_02.html
+    ├── lesson_03.html
+    ├── lesson_04.html
+    ├── lesson_05.html
+    ├── lesson_06.html
+    └── lesson_07.html              # Main webpage for course information and schedule
 ```
 
 ## Usage
