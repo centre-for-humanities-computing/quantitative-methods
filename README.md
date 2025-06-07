@@ -1,1 +1,34 @@
-# quantitative-methods
+# Computational Humanities (CMP 25)
+
+This repository contains materials for the Computational Humanities (CMP 25) course, focusing on quantitative and computational methods within humanities research.
+
+## Repository Structure
+
+```
+.
+├── README.md                  # Overview and instructions
+├── files
+│   └── 2024_quant_text.pdf    # Course-related documents and readings
+└── index.html                 # Main webpage for course information and schedule
+```
+
+## Usage
+
+- Open `index.html` in a web browser to view course details, syllabus, and schedule.
+- The `files` folder contains supplementary materials and readings for each class session.
+
+## Course Instructors
+
+- [Kristoffer Nielbo](https://knielbo.github.io/)
+- [Ulf Dalvad Berthelsen](https://pure.au.dk/portal/da/persons/udb%40cc.au.dk)
+
+## Additional Resources
+
+- [Course GitHub Repository](https://github.com/centre-for-humanities-computing/quantitative-methods)
+- [UCloud](https://cloud.sdu.dk/)
+- [Center for Humanities Computing](https://chc.au.dk/)
+- [Aarhus University](https://international.au.dk/)
+
+## License
+
+This repository is intended for educational purposes. Please contact course instructors for questions related to content usage.# quantitative-methods
