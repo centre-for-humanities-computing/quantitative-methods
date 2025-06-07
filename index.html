@@ -28,6 +28,22 @@
             font-size: 0.9em;
             color: #666;
         }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 10px;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f4f4f4;
+        }
+        tr:nth-child(even) {
+            background-color: #fafafa;
+        }
     </style>
 </head>
 <body>
@@ -47,7 +63,52 @@
 
     <section id="schedule">
         <h2>Schedule</h2>
-        <p>The detailed schedule will be updated soon. Classes typically include lectures, hands-on exercises, and discussions.</p>
+        <table>
+            <thead>
+                <tr>
+                    <th>Topic</th>
+                    <th>Time</th>
+                    <th>Instructor</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1. Linking Research Interests with Quantitative Methods</td>
+                    <td>11 June 2025 | 10.00-14.00</td>
+                    <td><a href="https://knielbo.github.io/">Kristoffer Nielbo</a></td>
+                </tr>
+                <tr>
+                    <td>2. Handling Large Datasets and Data Wrangling/td>
+                    <td>20 August 2025 | 10.00-14.00</td>
+                    <td></td>
+                </tr>
+                <tr>
+                    <td>3. Scientific Programming</td>
+                    <td>10 September + 24 September 2025 | 10.00-14.00</td>
+                    <td><a href="https://www.au.dk/sps@cas.au.dk/">Stephan Smuts</a></td>
+                </tr>
+                <tr>
+                    <td>4. Probability Theory and Statistics</td>
+                    <td>8 October + 22 October 2025 | 10.00-14.00</td>
+                    <td><a href="https://tinyurl.com/2byass3s">Alex Doe</a></td>
+                </tr>
+                <tr>
+                    <td>5. Introduction to Machine Learning</td>
+                    <td>5 November + 19 November 2025 | 10.00-14.00</td>
+                     <td><a href="https://tinyurl.com/2byass3s">Alex Doe</a></td>
+                </tr>
+                <tr>
+                    <td>6. Publishing Quantitative and Computational Research</td>
+                    <td>3 December 2025 | 10.00-14.00</td>
+                     <td><a href="https://tinyurl.com/2byass3s">Alex Doe</a></td>
+                </tr>
+                <tr>
+                    <td>7. Project Development and Design</td>
+                    <td>17 December 2025 | 10.00-14.00</td>
+                     <td><a href="https://tinyurl.com/2byass3s">Alex Doe</a></td>
+                </tr>
+            </tbody>
+        </table>
     </section>
 
     <section id="resources">
