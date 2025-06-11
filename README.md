@@ -29,10 +29,9 @@ This repository contains materials for the Computational Humanities (CMP 25) cou
 - Open `index.html` in a web browser to view course details, syllabus, and schedule.
 - The `files` folder contains supplementary materials and readings for each class session.
 
-## Course Instructors
-
-- [Kristoffer Nielbo](https://knielbo.github.io/)
+## Course Coordinators:
 - [Ulf Dalvad Berthelsen](https://pure.au.dk/portal/da/persons/udb%40cc.au.dk)
+- [Kristoffer Nielbo](https://knielbo.github.io/)
 
 ## Additional Resources
 
