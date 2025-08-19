@@ -1,6 +1,6 @@
 # Computational Humanities (CMP 25)
 
-This repository contains materials for the Computational Humanities (CMP 25) course, focusing on quantitative and computational methods within humanities research.
+This repository contains materials for the Computational Humanities (CMP 25) course, focusing on quantitative and computational methods within humanities research. View course page at [quantitiative-methods](https://centre-for-humanities-computing.github.io/quantitative-methods/).
 
 ## Repository Structure
 
