@@ -7,4 +7,4 @@ You can click on the Colab badge on the right to open and execute the notebook o
 
 - Exercise 2: Data visualization, sampling and outliers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/centre-for-humanities-computing/quantitative-methods/blob/main/exercises/Probability_theory_and_statistics/exercise_2.ipynb)
 
-- Exercise 2: Data visualization, sampling and outliers [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/centre-for-humanities-computing/quantitative-methods/blob/main/exercises/Probability_theory_and_statistics/exercise_3.ipynb)
+- Exercise 3: Linear regressions [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/centre-for-humanities-computing/quantitative-methods/blob/main/exercises/Probability_theory_and_statistics/exercise_3.ipynb)
