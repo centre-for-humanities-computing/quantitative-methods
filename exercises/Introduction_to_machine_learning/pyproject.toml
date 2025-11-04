@@ -1,0 +1,18 @@
+[project]
+name = "introduction-to-ml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "jupyter>=1.1.1",
+    "matplotlib>=3.10.7",
+    "notebook>=7.4.7",
+    "numpy>=2.3.4",
+    "opencv-python>=4.11.0.86",
+    "pdf2image>=1.17.0",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "torch>=2.9.0",
+    "torchvision>=0.24.0",
+]
