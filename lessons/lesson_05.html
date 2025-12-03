@@ -138,6 +138,24 @@
     </tbody>
 </table>
 
+
+<h2>Add to stop word list</h2>
+<pre>
+<code>
+    from sklearn.feature_extraction import text
+    from sklearn.feature_extraction.text import TfidfVectorizer
+
+    my_stop_words = list(text.ENGLISH_STOP_WORDS.union(["said", "mr"]))
+
+    vectorizer_lda = CountVectorizer(
+        lowercase=True,
+        min_df=2,
+        max_features=5000,
+        stop_words=my_stop_words
+    )
+</code></pre>
+
+
     <h2>Materials</h2>
     <ul>
         <li><a href="https://github.com/centre-for-humanities-computing/quantitative-methods/blob/main/files/Introduction_to_Machine_Learning.pdf">Slides on supervised ML</a></li>
